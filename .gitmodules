@@ -1,0 +1,6 @@
+[submodule "platforms/mik32"]
+	path = platforms/mik32
+	url = https://github.com/sh-sergey/platform-mik32
+[submodule "packages/framework-mik32v0-sdk"]
+	path = packages/framework-mik32v0-sdk
+	url = https://github.com/sh-sergey/framework-mik32v0-sdk
