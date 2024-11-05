@@ -1,3 +1,9 @@
 [submodule "platforms/mik32"]
 	path = platforms/mik32
 	url = https://github.com/MikronMIK32/platform-mik32
+[submodule "packages/framework-mik32v2-sdk"]
+	path = packages/framework-mik32v2-sdk
+	url = https://github.com/MikronMIK32/framework-mik32v2-sdk
+[submodule "packages/tool-mik32-uploader"]
+	path = packages/tool-mik32-uploader
+	url = https://github.com/MikronMIK32/mik32-uploader
